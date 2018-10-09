@@ -143,7 +143,7 @@ Challenge | Solution
 [Re.findall() & Re.finditer()](https://www.hackerrank.com/challenges/re-findall-re-finditer) | []()
 [Re.start() & Re.end()](https://www.hackerrank.com/challenges/re-start-re-end) | []()
 [Regex Substitution](https://www.hackerrank.com/challenges/re-sub-regex-substitution) | []()
-[Validating] Roman Numerals(https://www.hackerrank.com/challenges/validate-a-roman-number) | []()
+[Validating Roman Numerals](https://www.hackerrank.com/challenges/validate-a-roman-number) | []()
 [Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number) | []()
 [Validating and Parsing Email Addresses](https://www.hackerrank.com/challenges/validating-named-email-addresses) | []()
 [Hex Color Code](https://www.hackerrank.com/challenges/hex-color-code) | []()
