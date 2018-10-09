@@ -26,7 +26,6 @@ Challenge | Solution
 [Lists](https://www.hackerrank.com/challenges/python-lists) | [Lists.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Basic%20Data%20Types/Lists.py)
 [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Tuples.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Basic%20Data%20Types/Tuples.py)
 
-
 ### Strings
 Challenge | Solution
 --------- | ---------
@@ -43,8 +42,6 @@ Challenge | Solution
 [Capitalize](https://www.hackerrank.com/challenges/capitalize) | []()
 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | []()
 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | []()
-
-
 
 ### Sets
 Challenge | Solution
@@ -74,8 +71,6 @@ Challenge | Solution
 [Power - Mod Power]() | [Power-Mod Power.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Math/Power-Mod%20Power.py)
 [Integers Come In All Sizes]() | [Integers All Sizes.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Math/Integers%20All%20Sizes.py)
 
-
-
 ### Itertools 
 Challenge | Solution
 --------- | ---------
@@ -98,7 +93,6 @@ Challenge | Solution
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque) | []()
 [Company Logo](https://www.hackerrank.com/challenges/most-commons) | []()
 [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | []()
-
 
 ### Date and Time
 Challenge | Solution
@@ -155,7 +149,6 @@ Challenge | Solution
 [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | []()
 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | []()
 
-
 ### XML
 Challenge | Solution
 --------- | ---------
@@ -187,9 +180,92 @@ Challenge | Solution
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | []()
 [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | [](https://www.hackerrank.com/challenges/np-linear-algebra)
 
-
 ### Debugging
 Challenge | Solution
 --------- | ---------
 [Words Scores](https://www.hackerrank.com/challenges/words-score) | []()
 [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) | []()
+
+# SQL
+
+### Basic Select
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+
+### Advanced Select
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+
+### Aggregation
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+
+### Basic Join
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+
+### Advanced Join
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+[]() | []()
+
+### Alternative Queries
+Challenge | Solution
+--------- | ---------
+[Draw The Triangle 1]() | [Draw The Triangle 1.sql]()
+[Draw The Triangle 2]() | [Draw The Triangle 2.sql]()
+[Print Prime Numbers]() | [Print Prime Numbers.sql]()
