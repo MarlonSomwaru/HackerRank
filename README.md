@@ -1,7 +1,7 @@
 
 ![HackerRank Logo](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
 
-This repository contains solutions to the problems found in the Python Domain on HackerRank.
+This repository contains solutions to the problems found on HackerRank.
 
 # Python
 
