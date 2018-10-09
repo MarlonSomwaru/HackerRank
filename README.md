@@ -191,13 +191,13 @@ Challenge | Solution
 ### Basic Select
 Challenge | Solution
 --------- | ---------
-[]() | []()
-[]() | []()
-[]() | []()
-[]() | []()
-[]() | []()
-[]() | []()
-[]() | []()
+[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query) | []()
+[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2) | []()
+[Select All](https://www.hackerrank.com/challenges/select-all-sql) | []()
+[Select By ID](https://www.hackerrank.com/challenges/select-by-id) | []()
+[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | []()
+[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | []()
+[Weather Observation 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | []()
 []() | []()
 []() | []()
 []() | []()
