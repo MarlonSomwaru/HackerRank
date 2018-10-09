@@ -171,7 +171,22 @@ Challenge | Solution
 ### Numpy
 Challenge | Solution
 --------- | ---------
-[]() | []()
+[Arrays](https://www.hackerrank.com/challenges/np-arrays) | []()
+[Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten) | []()
+[Shape and Reshape](https://www.hackerrank.com/challenges/np-shape-reshape) | []()
+[Concatenate](https://www.hackerrank.com/challenges/np-concatenate) | []()
+[Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones) | []()
+[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity) | []()
+[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics) | []()
+[Floor, Ceil, Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint) | []()
+[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod) | []()
+[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max) | []()
+[Mean, Var, and Std](https://www.hackerrank.com/challenges/np-mean-var-and-std) | []()
+[Dot and Cross](https://www.hackerrank.com/challenges/np-dot-and-cross) | []()
+[Inner and Outer](https://www.hackerrank.com/challenges/np-inner-and-outer) | []()
+[Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | []()
+[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | [](https://www.hackerrank.com/challenges/np-linear-algebra)
+
 
 ### Debugging
 Challenge | Solution
