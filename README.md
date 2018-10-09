@@ -11,30 +11,48 @@ Check out my HackerRank profile [here](https://www.hackerrank.com/MarlonS)
 ### Warmup
 Challenge | Solution
 --------- | ---------
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solve Me First.py]()
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Simple Array Sum.py]()
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Compare Triplets.py]()
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Big Sum.py]()
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Plus Minus.py]()
+[Staircase](https://www.hackerrank.com/challenges/staircase) | []()
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Mini Max Sum.py]()
+[Birthday Cakes Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | []()
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Time Conversion.py]()
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | []()
+
 
 ### Implementation
 Challenge | Solution
 --------- | ---------
+[]() | []()
+[]() | []()
 
 ### Strings
 Challenge | Solution
 --------- | ---------
+[]() | []()
 
 ### Sorting
 Challenge | Solution
 --------- | ---------
+[]() | []()
 
 ### Search
 Challenge | Solution
 --------- | ---------
+[]() | []()
 
 ### Graph Theory
 Challenge | Solution
 --------- | ---------
+[]() | []()
 
 ### Greedy
 Challenge | Solution
 --------- | ---------
+[]() | []()
 
 ### Dynamic Programming
 Challenge | Solution
