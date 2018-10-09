@@ -2,7 +2,69 @@
 ![HackerRank Logo](https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg)
 
 This repository contains solutions to the problems found on HackerRank.
+
 Check out my HackerRank profile [here](https://www.hackerrank.com/MarlonS)
+
+# Problem Solving
+## Algorithms
+
+### Warmup
+Challenge | Solution
+--------- | ---------
+
+### Implementation
+Challenge | Solution
+--------- | ---------
+
+### Strings
+Challenge | Solution
+--------- | ---------
+
+### Sorting
+Challenge | Solution
+--------- | ---------
+
+### Search
+Challenge | Solution
+--------- | ---------
+
+### Graph Theory
+Challenge | Solution
+--------- | ---------
+
+### Greedy
+Challenge | Solution
+--------- | ---------
+
+### Dynamic Programming
+Challenge | Solution
+--------- | ---------
+
+### Constructive Algorithms
+Challenge | Solution
+--------- | ---------
+
+### Bit Manipulation
+Challenge | Solution
+--------- | ---------
+
+### Recursion
+Challenge | Solution
+--------- | ---------
+
+### Game Theory
+Challenge | Solution
+--------- | ---------
+
+### NP Complete
+Challenge | Solution
+--------- | ---------
+
+### Debugging
+Challenge | Solution
+--------- | ---------
+
+
 
 # Python
 
