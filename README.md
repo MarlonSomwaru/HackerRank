@@ -64,6 +64,52 @@ Challenge | Solution
 Challenge | Solution
 --------- | ---------
 
+## Data Structures
+
+### Arrays
+Challenge | Solution
+--------- | ---------
+
+### Linked Lists
+Challenge | Solution
+--------- | ---------
+
+### Trees
+Challenge | Solution
+--------- | ---------
+
+### Balanced Trees
+Challenge | Solution
+--------- | ---------
+
+### Stacks
+Challenge | Solution
+--------- | ---------
+
+### Queues
+Challenge | Solution
+--------- | ---------
+
+### Heap
+Challenge | Solution
+--------- | ---------
+
+### Disjoint Set
+Challenge | Solution
+--------- | ---------
+
+### Multiple Choice
+Challenge | Solution
+--------- | ---------
+
+### Trie
+Challenge | Solution
+--------- | ---------
+
+### Advanced
+Challenge | Solution
+--------- | ---------
+
 
 
 # Python
