@@ -3,6 +3,133 @@
 
 This repository contains solutions to the problems found on HackerRank.
 
+Check out my HackerRank profile [here](https://www.hackerrank.com/MarlonS)
+
+# Problem Solving
+## Algorithms
+
+### Warmup
+Challenge | Solution
+--------- | ---------
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solve Me First.py]()
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Simple Array Sum.py]()
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Compare Triplets.py]()
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Big Sum.py]()
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Plus Minus.py]()
+[Staircase](https://www.hackerrank.com/challenges/staircase) | []()
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Mini Max Sum.py]()
+[Birthday Cakes Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | []()
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Time Conversion.py]()
+[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | []()
+
+
+### Implementation
+Challenge | Solution
+--------- | ---------
+[]() | []()
+[]() | []()
+
+### Strings
+Challenge | Solution
+--------- | ---------
+[]() | []()
+
+### Sorting
+Challenge | Solution
+--------- | ---------
+[]() | []()
+
+### Search
+Challenge | Solution
+--------- | ---------
+[]() | []()
+
+### Graph Theory
+Challenge | Solution
+--------- | ---------
+[]() | []()
+
+### Greedy
+Challenge | Solution
+--------- | ---------
+[]() | []()
+
+### Dynamic Programming
+Challenge | Solution
+--------- | ---------
+
+### Constructive Algorithms
+Challenge | Solution
+--------- | ---------
+
+### Bit Manipulation
+Challenge | Solution
+--------- | ---------
+
+### Recursion
+Challenge | Solution
+--------- | ---------
+
+### Game Theory
+Challenge | Solution
+--------- | ---------
+
+### NP Complete
+Challenge | Solution
+--------- | ---------
+
+### Debugging
+Challenge | Solution
+--------- | ---------
+
+## Data Structures
+
+### Arrays
+Challenge | Solution
+--------- | ---------
+
+### Linked Lists
+Challenge | Solution
+--------- | ---------
+
+### Trees
+Challenge | Solution
+--------- | ---------
+
+### Balanced Trees
+Challenge | Solution
+--------- | ---------
+
+### Stacks
+Challenge | Solution
+--------- | ---------
+
+### Queues
+Challenge | Solution
+--------- | ---------
+
+### Heap
+Challenge | Solution
+--------- | ---------
+
+### Disjoint Set
+Challenge | Solution
+--------- | ---------
+
+### Multiple Choice
+Challenge | Solution
+--------- | ---------
+
+### Trie
+Challenge | Solution
+--------- | ---------
+
+### Advanced
+Challenge | Solution
+--------- | ---------
+
+
+
 # Python
 
 ### Introduction
@@ -26,7 +153,6 @@ Challenge | Solution
 [Lists](https://www.hackerrank.com/challenges/python-lists) | [Lists.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Basic%20Data%20Types/Lists.py)
 [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Tuples.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Basic%20Data%20Types/Tuples.py)
 
-
 ### Strings
 Challenge | Solution
 --------- | ---------
@@ -43,8 +169,6 @@ Challenge | Solution
 [Capitalize](https://www.hackerrank.com/challenges/capitalize) | []()
 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | []()
 [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | []()
-
-
 
 ### Sets
 Challenge | Solution
@@ -74,8 +198,6 @@ Challenge | Solution
 [Power - Mod Power]() | [Power-Mod Power.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Math/Power-Mod%20Power.py)
 [Integers Come In All Sizes]() | [Integers All Sizes.py](https://github.com/msomwaru13/HackerRank/blob/master/Python/Math/Integers%20All%20Sizes.py)
 
-
-
 ### Itertools 
 Challenge | Solution
 --------- | ---------
@@ -98,7 +220,6 @@ Challenge | Solution
 [Collections.deque()](https://www.hackerrank.com/challenges/py-collections-deque) | []()
 [Company Logo](https://www.hackerrank.com/challenges/most-commons) | []()
 [Piling Up!](https://www.hackerrank.com/challenges/piling-up) | []()
-
 
 ### Date and Time
 Challenge | Solution
@@ -155,7 +276,6 @@ Challenge | Solution
 [Validating Postal Codes](https://www.hackerrank.com/challenges/validating-postalcode) | []()
 [Matrix Script](https://www.hackerrank.com/challenges/matrix-script) | []()
 
-
 ### XML
 Challenge | Solution
 --------- | ---------
@@ -187,9 +307,92 @@ Challenge | Solution
 [Polynomials](https://www.hackerrank.com/challenges/np-polynomials) | []()
 [Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra) | [](https://www.hackerrank.com/challenges/np-linear-algebra)
 
-
 ### Debugging
 Challenge | Solution
 --------- | ---------
 [Words Scores](https://www.hackerrank.com/challenges/words-score) | []()
 [Default Arguments](https://www.hackerrank.com/challenges/default-arguments) | []()
+
+# SQL
+
+### Basic Select
+Challenge | Solution
+--------- | ---------
+[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query) | []()
+[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2) | []()
+[Select All](https://www.hackerrank.com/challenges/select-all-sql) | []()
+[Select By ID](https://www.hackerrank.com/challenges/select-by-id) | []()
+[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | []()
+[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | []()
+[Weather Observation 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | []()
+[Weather Observation 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | []()
+[Weather Observation 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | []()
+[Weather Observation 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | []()
+[Weather Observation 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | []()
+[Weather Observation 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | []()
+[Weather Observation 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | []()
+[Weather Observation 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | []()
+[Weather Observation 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | []()
+[Weather Observation 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | []()
+[Weather Observation 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | []()
+[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | []()
+[Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | []()
+[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | []()
+
+### Advanced Select
+Challenge | Solution
+--------- | ---------
+[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle) | []()
+[Occupations](https://www.hackerrank.com/challenges/occupations) | []()
+[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1) | []()
+[New Companies](https://www.hackerrank.com/challenges/the-company) | []()
+[The PADS](https://www.hackerrank.com/challenges/the-pads) | []()
+
+### Aggregation
+Challenge | Solution
+--------- | ---------
+[Revising Aggregations-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | []()
+[Revising Aggregations-The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | []()
+[Revising Aggregations-Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | []()
+[Average Population](https://www.hackerrank.com/challenges/average-population) | []()
+[Japan Population](https://www.hackerrank.com/challenges/japan-population) | []()
+[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | []()
+[The Blunder](https://www.hackerrank.com/challenges/the-blunder) | []()
+[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | []()
+[Weather Observation 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | []()
+[Weather Observation 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | []()
+[Weather Observation 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | []()
+[Weather Observation 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | []()
+[Weather Observation 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | []()
+[Weather Observation 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | []()
+[Weather Observation 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | []()
+[Weather Observation 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | []()
+[Weather Observation 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | []()
+
+### Basic Join
+Challenge | Solution
+--------- | ---------
+[Asian Population](https://www.hackerrank.com/challenges/asian-population) | []()
+[African Cities](https://www.hackerrank.com/challenges/african-cities) | []()
+[Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | []()
+[Top Competitors](https://www.hackerrank.com/challenges/full-score) | []()
+[The Report](https://www.hackerrank.com/challenges/the-report) | []()
+[Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands) | []()
+[Challenges](https://www.hackerrank.com/challenges/challenges) | []()
+[Contest Leader](https://www.hackerrank.com/challenges/contest-leaderboard) | []()
+
+### Advanced Join
+Challenge | Solution
+--------- | ---------
+[Projects](https://www.hackerrank.com/challenges/projects) | []()
+[Placements](https://www.hackerrank.com/challenges/placements) | []()
+[Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs) | []()
+[Interviews](https://www.hackerrank.com/challenges/interviews) | []()
+[15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql) | []()
+
+### Alternative Queries
+Challenge | Solution
+--------- | ---------
+[Draw The Triangle 1]() | [Draw The Triangle 1.sql]()
+[Draw The Triangle 2]() | [Draw The Triangle 2.sql]()
+[Print Prime Numbers]() | [Print Prime Numbers.sql]()
