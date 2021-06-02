@@ -336,12 +336,12 @@ Challenge | Solution
 [Weather Observation 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | [Weather Observation 7.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%207.sql) 
 [Weather Observation 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | [Weather Observation 8.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%208.sql) 
 [Weather Observation 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | [Weather Observation 9.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%209.sql) 
-[Weather Observation 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | []()
-[Weather Observation 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | []()
-[Weather Observation 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | []()
-[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | []()
-[Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | []()
-[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | []()
+[Weather Observation 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | [Weather Observation 10.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2010.sql) 
+[Weather Observation 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | [Weather Observation 11.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2011.sql) 
+[Weather Observation 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | [Weather Observation 12.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%2012.sql) 
+[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | [Higher Than 75 Marks.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Higher%20Than%2075%20Marks.sql) 
+[Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | [Employee Names.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Employee%20Names.sql) 
+[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | [Employee Salaries.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Employee%20Salaries.sql) 
 
 ### Advanced Select
 Challenge | Solution
