@@ -11,28 +11,32 @@ Check out my HackerRank profile [here](https://www.hackerrank.com/MarlonS)
 ### Warmup
 Challenge | Solution
 --------- | ---------
-[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solve Me First.py]()
-[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Simple Array Sum.py]()
-[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Compare Triplets.py]()
-[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Big Sum.py]()
-[Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Plus Minus.py]()
-[Staircase](https://www.hackerrank.com/challenges/staircase) | []()
-[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Mini Max Sum.py]()
+[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solve Me First.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Solve%20Me%20First.py) 
+[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Simple Array Sum.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Simple%20Array%20Sum.py) 
+[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Compare Triplets.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) 
+[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Big Sum.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/A%20Very%20Big%20Sum.py) 
+[Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Plus Minus.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Plus%20Minus.py) 
+[Staircase](https://www.hackerrank.com/challenges/staircase) | [Staircase.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Staircase.py) 
+[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Mini Max Sum.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Mini-Max%20Sum.py) 
 [Birthday Cakes Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | []()
-[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Time Conversion.py]()
+[Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Time Conversion.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Time%20Conversion.py) 
 [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | []()
+[Compare Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Compare Triplets.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Compare%20the%20Triplets.py) 
 
 
 ### Implementation
 Challenge | Solution
 --------- | ---------
-[]() | []()
-[]() | []()
+[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant) | [Sales by Match.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Sales%20by%20Match.py) 
+[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Cats and a Mouse.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Cats%20and%20a%20Mouse.py) 
 
 ### Strings
 Challenge | Solution
 --------- | ---------
-[]() | []()
+[CamelCase](https://www.hackerrank.com/challenges/camelcase) | [CamelCase.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/CamelCase.py) 
+[Pangrams](https://www.hackerrank.com/challenges/pangrams) | [Pangrams.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Pangrams.py) 
+[Funny String](https://www.hackerrank.com/challenges/funny-string) | [Funny String.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Funny%20String.py) 
+[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | [Alternating Characters.py](https://github.com/MarlonSomwaru/HackerRank/blob/master/Problem%20Solving/Algorithms/Alternating%20Characters.py) 
 
 ### Sorting
 Challenge | Solution
@@ -318,20 +322,20 @@ Challenge | Solution
 ### Basic Select
 Challenge | Solution
 --------- | ---------
-[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query) | []()
-[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2) | []()
-[Select All](https://www.hackerrank.com/challenges/select-all-sql) | []()
-[Select By ID](https://www.hackerrank.com/challenges/select-by-id) | []()
-[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | []()
-[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | []()
-[Weather Observation 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | []()
-[Weather Observation 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | []()
-[Weather Observation 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | []()
-[Weather Observation 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | []()
-[Weather Observation 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | []()
-[Weather Observation 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | []()
-[Weather Observation 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | []()
-[Weather Observation 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | []()
+[Revising the Select Query 1](https://www.hackerrank.com/challenges/revising-the-select-query) | [Revising the Select Query 1.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%201.sql) 
+[Revising the Select Query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [Revising the Select Query 2.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%202.sql) 
+[Select All](https://www.hackerrank.com/challenges/select-all-sql) | [Select All.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Select%20All.sql) 
+[Select By ID](https://www.hackerrank.com/challenges/select-by-id) | [Select By ID.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Select%20by%20ID.sql) 
+[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | [Japanese Cities' Attributes.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Japanese%20Cities'%20Attributes.sql) 
+[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name) | [Japanese Cities' Names.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Japanese%20Cities'%20Names.sql) 
+[Weather Observation 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | [Weather Observation 1.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%201.sql) 
+[Weather Observation 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | [Weather Observation 3.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%203.sql) 
+[Weather Observation 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | [Weather Observation 4.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%204.sql) 
+[Weather Observation 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [Weather Observation 5.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%205.sql) 
+[Weather Observation 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | [Weather Observation 6.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%206.sql) 
+[Weather Observation 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | [Weather Observation 7.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%207.sql) 
+[Weather Observation 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | [Weather Observation 8.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%208.sql) 
+[Weather Observation 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | [Weather Observation 9.sql](https://github.com/MarlonSomwaru/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%209.sql) 
 [Weather Observation 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | []()
 [Weather Observation 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | []()
 [Weather Observation 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | []()
